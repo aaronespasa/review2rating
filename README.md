@@ -38,16 +38,10 @@ Once created, you need to activate the virtual environment:
 source venv/bin/activate
 ```
 
-**Windows** (cmd.exe):
+**Windows**:
 
 ```bash
-venv\Scripts\activate.bat
-```
-
-**Windows** (PowerShell):
-
-```bash
-.\venv\Scripts\Activate.ps1
+venv\Scripts\activate
 ```
 
 ### 3️⃣ Installing Dependencies
