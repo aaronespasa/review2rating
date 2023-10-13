@@ -10,3 +10,4 @@ scipy
 pytorch_lightning
 scikit-learn
 tqdm
+langdetect
