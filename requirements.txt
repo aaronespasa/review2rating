@@ -5,6 +5,7 @@ seaborn
 plotly
 nbformat
 nlpaug
+nltk
 scipy
 pytorch_lightning
 scikit-learn
