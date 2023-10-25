@@ -109,3 +109,9 @@ Final train loss: 0.1385
 Final validation loss: 1.6426
 Final validation accuracy: 70.49%
 Final validation F1 score: 0.67
+
+------------------------------------------
+
+500 features + Balanced (tree):
+Validation Accuracy: 0.6885714285714286
+F1 Score: 0.6835035293912345
