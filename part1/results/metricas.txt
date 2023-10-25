@@ -1,0 +1,49 @@
+1000 features + Stemming:
+Final train loss: 0.1099
+Final validation loss: 1.7141
+Final validation accuracy: 67.31%
+Final validation F1 score: 0.64
+
+
+500 features + Stemming:
+Final train loss: 0.0972
+Final validation loss: 1.5572
+Final validation accuracy: 69.70%
+Final validation F1 score: 0.67
+
+------------------------------------------
+
+500 features + Balanced:
+Final train loss: 0.0985
+Final validation loss: 1.9458
+Final validation accuracy: 69.62%
+Final validation F1 score: 0.67
+
+
+1000 features + Balanced:
+Final train loss: 0.0616
+Final validation loss: 2.0185
+Final validation accuracy: 69.60%
+Final validation F1 score: 0.67
+
+------------------------------------------
+
+2000 features bi + Balanced:
+Final train loss: 0.0704
+Final validation loss: 1.7811
+Final validation accuracy: 67.90%
+Final validation F1 score: 0.65
+
+
+1000 features bi + Balanced:
+Final train loss: 0.0959
+Final validation loss: 1.7392
+Final validation accuracy: 71.31%
+Final validation F1 score: 0.68
+
+
+500 features bi + Balanced:
+Final train loss: 0.1385
+Final validation loss: 1.6426
+Final validation accuracy: 70.49%
+Final validation F1 score: 0.67
