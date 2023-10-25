@@ -1,3 +1,65 @@
+=============== 3 classes ===============
+
+1000 features + Stemming
+
+
+500 features + Stemming
+Final train loss: 0.0179
+Final validation loss: 0.8719
+Final validation accuracy: 83.69%
+Final validation F1 score: 0.81
+
+------------------------------------------
+
+2000 features + Balanced:
+Final train loss: 0.0134
+Final validation loss: 0.8792
+Final validation accuracy: 84.83%
+Final validation F1 score: 0.83
+
+
+1000 features + Balanced:
+Final train loss: 0.0246
+Final validation loss: 0.9555
+Final validation accuracy: 83.67%
+Final validation F1 score: 0.81
+
+
+500 features + Balanced:
+Final train loss: 0.0415
+Final validation loss: 0.9214
+Final validation accuracy: 82.44%
+Final validation F1 score: 0.79
+
+------------------------------------------
+
+2000 features bi + Balanced:
+Final train loss: 0.0371
+Final validation loss: 0.8546
+Final validation accuracy: 82.50%
+Final validation F1 score: 0.80
+
+
+1000 features bi + Balanced:
+Final train loss: 0.0371
+Final validation loss: 0.7751
+Final validation accuracy: 83.67%
+Final validation F1 score: 0.81
+
+
+500 features bi + Balanced:
+Final train loss: 0.0269
+Final validation loss: 0.8849
+Final validation accuracy: 85.38%
+Final validation F1 score: 0.83
+
+
+
+
+
+
+=============== 5 classes ===============
+
 1000 features + Stemming:
 Final train loss: 0.1099
 Final validation loss: 1.7141
